@@ -9,7 +9,3 @@ def sum_range(x, y):
 
 def mult(x, y):
     return x * y
-
-def infinite_loop(x, y):
-    while True:
-        pass
