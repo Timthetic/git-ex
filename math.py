@@ -13,3 +13,6 @@ def mult(x, y):
 def infinite_loop(x, y):
     while True:
         pass
+
+def hello():
+    print("Hello")
